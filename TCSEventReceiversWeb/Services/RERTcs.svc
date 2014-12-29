@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TCSEventReceiversWeb.Services.RERTcs" CodeBehind="RERTcs.svc.cs" %>

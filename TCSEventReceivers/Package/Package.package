@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e6b4c275-cf7b-47d0-b1e3-afa129c74c0b" solutionId="e6b4c275-cf7b-47d0-b1e3-afa129c74c0b" resetWebServer="false" sharePointProductVersion="16.0" name="TCSEventReceivers" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="aa11b232-1ea7-4b05-b97c-80973ef5a804" />
+  </features>
+</package>
